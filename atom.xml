@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>http://www.alishenshen.cn/</id>
+  <title>单词天天斗</title>
+  <subtitle>微信小程序云开发 单词天天斗，单词对战游戏，支持好友对战、随机匹配、人机对战等，毕业设计</subtitle>
+  <author>
+    <name>arley</name>
+  </author>
+  <updated>2021-06-14T15:22:00.393Z</updated>
+  <generator>@mr-hope/vuepress-plugin-feed</generator>
+  <link rel="self" href="http://www.alishenshen.cn/atom.xml"/>
+  <link rel="alternate" href="http://www.alishenshen.cn/"/>
+  <rights>Copyright by arley</rights>
+  <contributor>
+    <name>arley</name>
+  </contributor>
+  <entry>
+    <title type="html">项目指南</title>
+    <id>http://www.alishenshen.cn/product/</id>
+    <link href="http://www.alishenshen.cn/product/"/>
+    <updated>2021-05-23T16:48:27.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="项目指南"> 项目指南</h1>
+<h2 id="一句话描述"> 一句话描述</h2>
+<p>单词天天斗，是一款支持英语<strong>单词对战学习</strong>(好友对战、随机匹配、人机对战)、<strong>挑战模式学习</strong>(单词选意)、含生词本等业务闭环、体验极致的<strong>小程序</strong>，含项目开发制作教程、文档齐全。</p>
+<div><p>提示</p>
+<p>合作请联系唯一微信/QQ号：<strong>34805850</strong>，请勿二次售卖小程序/文档/教程，谨防上当受骗</p>
+</div>
+<h2 id="用户及应用场景"> 用户及应用场景</h2>
+<ul>
+<li><strong>面向英语学习爱好者</strong>：通过微信小程序进行英语对战学习，支持微信邀请对战、随机匹配、人机对战、词汇挑战多种单词学习方式。</li>
+<li><strong>面向技术爱好者</strong>：该小程序含完整视频教程，文档丰富，手把手教学，作为小程序实战的绝佳选择。</li>
+<li><strong>面向毕业生</strong>：毕业设计小程序课题优选，技术难度合适；教程讲解，高质量毕设，高效解决你的毕业头等大事。</li>
+<li><strong>面向英语行业创业者</strong>：小程序支持二次开发，可随意定制，自定义词库，可商用。</li>
+<li><strong>面向自由职业者</strong>：该小程序开源，可以私有化部署运营，副业好选择。</li>
+</ul>
+<h2 id="产品的目标"> 产品的目标</h2>
+<ul>
+<li>打造市场中<strong>体验最好</strong>的单词对战学习小程序；为英语爱好者提供价值。</li>
+<li><strong>录制</strong>项目开发完整<strong>教程</strong>，<strong>撰写</strong>完整的项目、技术<strong>文档</strong>；输出技术产出，帮助对开发感兴趣的同学。</li>
+<li>给英语行业从事者提供单词学习项目<strong>技术支持</strong>，完善自己的事业体系。</li>
+</ul>
+<h2 id="快速链接"> 快速链接</h2>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1G64y1S75F/" target="_blank" rel="noopener noreferrer">一分钟功能视频演示</a></li>
+<li><a href="/product/experience.html">在线体验</a></li>
+<li><a href="/product/deploy.html">私有部署</a></li>
+<li><a href="/tutorial/">手摸手开发单词天天斗</a></li>
+</ul>
+<h2 id="关于作者"> 关于作者</h2>
+<div><p>关于我</p>
+<p>2020年本科毕业，十年互联网老兵；职业：前端，事业：独立开发；曾就职于小米、百度等互联网公司</p>
+</div>
+<p>小番茄日常习惯打卡、单词天天斗、有本密码等多款APP、小程序的独立设计开发运营者 ~</p>
+<ul>
+<li>宗旨：创设项目，解决问题、提供价值。</li>
+<li>使命：用心做好每一个产品。</li>
+<li>愿景：和用户交朋友，打造“磊子品牌”产品线。</li>
+</ul>
+<h3 id="自媒体平台"> 自媒体平台</h3>
+<ul>
+<li><a href="https://www.zhihu.com/people/yi-ge-ren-zhu-72/" target="_blank" rel="noopener noreferrer">知乎</a></li>
+<li><a href="https://github.com/arleyGuoLei" target="_blank" rel="noopener noreferrer">github</a></li>
+<li><a href="https://juejin.cn/user/1873223544998494" target="_blank" rel="noopener noreferrer">掘金</a></li>
+<li><a href="./">哔哩哔哩</a></li>
+<li><a href="./">微信视频号</a></li>
+<li><a href="./">抖音号</a></li>
+</ul>
+<h3 id="更多参考"> 更多参考</h3>
+<ul>
+<li><a href="https://zhuanlan.zhihu.com/p/360593317" target="_blank" rel="noopener noreferrer">我的独立开发者之旅，做一名独立开发者从产品到开发、运营，是一种什么体验？</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/142414111" target="_blank" rel="noopener noreferrer">我的毕业反思，含大学的学习、工作经验分享</a></li>
+</ul>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-23T03:16:19.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">单词天天斗</title>
+    <id>http://www.alishenshen.cn/</id>
+    <link href="http://www.alishenshen.cn/"/>
+    <updated>2021-05-24T16:29:09.000Z</updated>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-20T16:16:11.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">在线体验</title>
+    <id>http://www.alishenshen.cn/product/experience/</id>
+    <link href="http://www.alishenshen.cn/product/experience/"/>
+    <updated>2021-05-23T10:09:10.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="在线体验"> 在线体验</h1>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-23T03:16:19.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">课程导学</title>
+    <id>http://www.alishenshen.cn/tutorial/1.x-project-introduction/</id>
+    <link href="http://www.alishenshen.cn/tutorial/1.x-project-introduction/"/>
+    <updated>2021-06-14T15:21:34.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="课程导学"> 课程导学</h1>
+<h2 id="备课"> 备课</h2>
+<p>同学们大家好，从今天开始我们一起来学习一门微信小程序云开发的课程，通过小程序打造全栈实战项目，实现单词PK小程序单词天天斗。首先我们先看一下项目演示，</p>
+<p>在首页，显示的是当前用户的信息、提示卡数目和当前选择的单词书，点击单词书后可以进行选择修改。小程序包含两个核心功能，对战模式和挑战模式。对战模式又分为好友对战、随机匹配和人机对战。</p>
+<p>因为是模拟器，没办法邀请真实好友，我们先进入随机匹配，配合另外一个手机进行演示。每个单词有四个选项，仅有一个为正确答案，越快越准确的选择正确将获得更高分数。测试一个选择正确的、选择错误的、超时选择、提示卡选择，选择错误的和提示卡选择的将加入到生词本中。结束对局分数越高的用户将获得胜利，结束后可以选择再来一局，相当于进入的了好友对战的交互形式。演示一个对战过程中，有用户退出的情况。</p>
+<p>接下来我们演示词汇挑战模式，选择错误即挑战失败，第一次错误可以通过分享小程序来复活，第二次选择错误可以通过观看视频复活，同时也是支持提示卡的。在生词本中，将显示对战模式和挑战模式选择错误的单词，排行榜将根据用户词力值和挑战模式中的最高分数进行排行。设置页可以调整对战战模式每局的单词数目，背景音乐、震动等设置。</p>
+<p>我们将根据需求说明和设计稿，陪大家从零到一开发该项目。学习该项目的话，需要有一定的前端基础，包括HTML、CSS、JS、ES6、小程序基础等。如果你对前端一无所知，建议先花两周时间快速学习上面提到的内容，然后，大概看一遍微信小程序官方文档，对小程序有一个广度上的认知，知道小程序提供了哪些能力。项目前端以组件化形式开发，后端使用微信小程序云开发实现。此课程不仅带大家完成前后端代码编写，还会带大家抓包爬虫获取单词数据，并且也会给大家安利一些工具的使用，比如git、npm、eslint、vscode、markdown等。通过本课程的学习，你将能开发类似的对战小程序，甚至是独立实现功能复杂的业务闭环小程序，快让我们来一起开始学习吧。</p>
+<h2 id="视频教程"> 视频教程</h2>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1dK4y1g7gp/" target="_blank" rel="noopener noreferrer">bilibili</a></li>
+<li><a href="https://www.zhihu.com/zvideo/1382824225367969792" target="_blank" rel="noopener noreferrer">知乎视频</a></li>
+</ul>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-28T17:27:20.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">小程序注册及项目初始化</title>
+    <id>http://www.alishenshen.cn/tutorial/2.1-mp-register/</id>
+    <link href="http://www.alishenshen.cn/tutorial/2.1-mp-register/"/>
+    <updated>2021-06-14T15:21:34.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="小程序注册及项目初始化"> 小程序注册及项目初始化</h1>
+<h2 id="备课"> 备课</h2>
+<p>首先我们注册一个微信小程序，进入<a href="https://mp.weixin.qq.com/cgi-bin/registermidpage?action=index&amp;lang=zh_CN&amp;token=" target="_blank" rel="noopener noreferrer">微信小程序注册</a>进行注册。一个邮箱只能注册一个小程序，一个身份证可以注册5个小程序。</p>
+<p>注册好之后我们登录小程序，设置好小程序名称和头像等信息。</p>
+<p>小程序开发者工具下载：<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html" target="_blank" rel="noopener noreferrer">https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html</a>，选择合适自己系统的工具版本，建议下载稳定版。</p>
+<p>下载安装后，我们打开小程序开发者工具，小程序后台找到开发设置，找到小程序appid，复制，新建项目。</p>
+<h2 id="视频教程"> 视频教程</h2>
+<ul>
+<li><a href="https://www.bilibili.com/video/BV1df4y187iV/" target="_blank" rel="noopener noreferrer">bilibili</a></li>
+<li><a href="https://www.zhihu.com/zvideo/1387909574473687040" target="_blank" rel="noopener noreferrer">知乎视频</a></li>
+</ul>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-06-14T15:21:34.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">使用第三方工具辅助开发</title>
+    <id>http://www.alishenshen.cn/tutorial/2.2-project-init/</id>
+    <link href="http://www.alishenshen.cn/tutorial/2.2-project-init/"/>
+    <updated>2021-06-14T15:21:34.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="使用第三方工具辅助开发"> 使用第三方工具辅助开发</h1>
+<h2 id="备课"> 备课</h2>
+<h2 id="视频教程"> 视频教程</h2>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-06-14T15:21:34.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">手摸手开发单词天天斗</title>
+    <id>http://www.alishenshen.cn/tutorial/</id>
+    <link href="http://www.alishenshen.cn/tutorial/"/>
+    <updated>2021-06-14T15:21:34.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="手摸手开发单词天天斗"> 手摸手开发单词天天斗</h1>
+<h2 id="课程大纲"> 课程大纲</h2>
+<ul>
+<li>第一章：课程导学</li>
+<li>第二章：准备工作
+<ul>
+<li>2.1 小程序注册及项目初始化</li>
+<li>2.2 使用第三方工具辅助开发 (git、node、npm、eslint、vscode)</li>
+</ul>
+</li>
+<li>第三章：首页功能实现
+<ul>
+<li>3.1 用户机制</li>
+<li>3.2 单词爬虫与数据整理</li>
+<li>3.x</li>
+</ul>
+</li>
+<li>第四章：对战模式的实现
+<ul>
+<li>4.x</li>
+</ul>
+</li>
+<li>第五章：挑战模式的实现</li>
+<li>第六章：排行榜、生词本、设置的实现</li>
+</ul>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-23T03:16:19.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">私有部署</title>
+    <id>http://www.alishenshen.cn/product/deploy/</id>
+    <link href="http://www.alishenshen.cn/product/deploy/"/>
+    <updated>2021-05-23T10:09:10.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="私有部署"> 私有部署</h1>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-23T03:16:19.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">UI设计</title>
+    <id>http://www.alishenshen.cn/product/ui-design/</id>
+    <link href="http://www.alishenshen.cn/product/ui-design/"/>
+    <updated>2021-05-23T10:09:10.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="ui设计"> UI设计</h1>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-23T03:16:19.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+  <entry>
+    <title type="html">小程序需求文档</title>
+    <id>http://www.alishenshen.cn/product/product-requirement-document/</id>
+    <link href="http://www.alishenshen.cn/product/product-requirement-document/"/>
+    <updated>2021-05-24T16:29:09.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="小程序需求文档"> 小程序需求文档</h1>
+<h2 id="需求概述"> 需求概述</h2>
+<h3 id="需求总体概述"> 需求总体概述</h3>
+<p>小程序包含<strong>单词对战</strong>、<strong>词汇挑战</strong>两种核心玩法功能。</p>
+<ul>
+<li>
+<p>其中单词对战包含好友对战、随机匹配、人机对战三种模式，对战模式中，双方根据单词选择释义，选择正确率越高且速度越快的一方获胜。</p>
+</li>
+<li>
+<p>词汇挑战模式，进入挑战后，根据单词选择释义，提供n条生命值，选择错误扣除一次机会，当生命值归零挑战结束。</p>
+</li>
+</ul>
+<p>另外，含有多个辅助功能，完成整个项目业务闭环。</p>
+<ul>
+<li>用户机制：用户有<strong>词力值</strong>、<strong>当前选择学习的单词书</strong>、<strong>头像</strong>、<strong>昵称</strong>、<strong>提示卡数目</strong>、<strong>对战局数</strong>、<strong>胜利局数</strong>、<strong>挑战模式最高分数</strong>等字段属性。</li>
+<li>词力值：每局对战模式结束，可以根据本局得分计算获得相应词力值的增长，挑战模式以最高分挑战分数作为词力值的其中一部分构成。</li>
+<li>单词书：小程序包含多本单词书可供选择学习，对战、挑战模式从用户所选取的单词本随机抽取单词。</li>
+<li>生词本：对战、挑战过程中，错误的单词将加入生词本，用于用户复习，再之后的学习过程中从生词本中抽一定比例对应单词本的词汇。</li>
+<li>提示卡：在对战模式和挑战模式中，提示卡可用于单词释义提示。</li>
+<li>排行榜：根据<strong>词力值</strong>和<strong>挑战分数</strong>降序进行排名展示。</li>
+<li>功能设置：可设置对战模式每局的对战词数、单词发音类型、是否开发对战背景音乐、错词/开始时手机是否震动等。</li>
+<li>头像和昵称：用于对战模式和排行榜的信息显示。</li>
+</ul>
+<h3 id="需求概述图"> 需求概述图</h3>
+<p>总体功能如下所示：</p>
+<p><img src="./../images/demand-overview.png" alt="需求概述" /></p>
+<h2 id="需求详细设计"> 需求详细设计</h2>
+<h3 id="对战模式"> 对战模式</h3>
+<ul>
+<li>对战模式含好友对战、随机匹配、人机对战三种模式。</li>
+<li>对战双方根据单词选择释义，选择正确率越高且速度越快的一方获胜。</li>
+<li>对战过程交互一致，主要区别在于对战双方如何加入到一个对战房间，将从不同模式解析加入房间的交互，然后再整体解析对战过程。</li>
+<li>对战过程为一个单词搭配四个中文释义的选择题形式，抽取n个单词，将抽取4n个中文释义，每题四个选项中仅有一个正确答案。</li>
+</ul>
+<h4 id="好友对战"> 好友对战</h4>
+<p>用户A从首页点击好友对战，根据当前所选取的单词书和每局对战词数随机抽取n个单词创建房间，成为房主，加入房间。</p>
+<p>房主可以分享房间给微信用户B，用户B通过房主的邀请加入到房间，点击加入房间进行对战准备。</p>
+<p>当用户B加入房间后，房主可点击开始对战开始本局对局。</p>
+<p><img src="./../images/home2friend.png" alt="好友对战" /></p>
+<h4 id="随机匹配"> 随机匹配</h4>
+<p>首页点击随机匹配，根据当前所选择的单词书进行查找有无房间可加入，若有则加入匹配房间，双方显示匹配成功，然后开始对局。</p>
+<p>没有满足条件的房间则根据当前所选取的单词书和每局对战词数随机抽取n个单词创建房间，成为房主，加入房间。</p>
+<p>可加入房间需满足以下条件：1. 房主在线； 2. 选择的单词书和房主一致； 3. 当前房间为匹配中状态，仅有房主一个人在房间内。</p>
+<p><img src="./../images/home2random.png" alt="随机匹配" /></p>
+<h4 id="人机对战"> 人机对战</h4>
+<p>通过随机匹配加入房间成为房主，在等待匹配过程中，可以点击开始人机对战，进行对局。</p>
+<p>人机使用数据库指定用户用于机器人信息展示，人机选择正确率为80%，选择时间在2 ~ 6秒。</p>
+<p>当用户选择选项后，机器人若还没答题则无需等待2~6s，直接进行答题。</p>
+<p><img src="./../images/home2npc.png" alt="人机对战" /></p>
+<h4 id="对战过程"> 对战过程</h4>
+<p>房主信息显示在左侧，右侧为普通用户，信息包含：用户头像、用户昵称、本局当前分数、本题答题得分、本题选择状态(错误/正确/未选择)。</p>
+<p>倒计时机制：每题选择时间有10s倒计时，如果到10s还没选择，则判定为错误。</p>
+<p>每道题有四个选项，其中仅有一个为正确答案，选择完成之后，在选项选择状态处显示本题答题是否正确。</p>
+<p><img src="./../images/pk-process.png" alt="对战过程" /></p>
+<h4 id="对战结算"> 对战结算</h4>
+<h3 id="挑战模式"> 挑战模式</h3>
+<h3 id="其他"> 其他</h3>
+<h4 id="单词书选择"> 单词书选择</h4>
+<h4 id="排行榜"> 排行榜</h4>
+<h4 id="生词本"> 生词本</h4>
+<h4 id="功能设置"> 功能设置</h4>
+<h4 id="用户机制"> 用户机制</h4>
+]]></content>
+    <author>
+      <name>arley</name>
+    </author>
+    <contributor>
+      <name>arley</name>
+    </contributor>
+    <published>2021-05-23T03:16:19.000Z</published>
+    <rights>Copyright by arley</rights>
+  </entry>
+</feed>
